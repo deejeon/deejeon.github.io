@@ -3998,3 +3998,12 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+iframe {
+	width: 100%;
+	height: 100%;
+}
+.h_iframe {
+    height: 40rem;
+    width:100%;
+}
